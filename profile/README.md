@@ -1,58 +1,54 @@
 # 🏛️ Kdosh Store S.A.C.
 
-> **Ecosistema de Innovación Tecnológica y Fidelización Omnicanal**  
-> Huánuco, Perú 🇵🇪
+<p align="center">
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KdoshStoreSAC&theme=github_dark" />
+</p>
+
+### 🌟 Sobre Nosotros
+**Kdosh Store S.A.C.** es una empresa peruana líder en el sector retail de moda y accesorios. Creemos firmemente que la tecnología es el motor principal para conectar con nuestros clientes, por lo que diseñamos y construimos nuestro propio ecosistema digital omnicanal (E-commerce, Apps Móviles, Sistemas de Fidelización y Automatizaciones ERP) con el objetivo de redefinir la experiencia de compra física y digital en el Perú.
 
 ---
 
-### 🌟 Sobre la Organización
-**Kdosh Store S.A.C.** es una empresa peruana líder en el sector retail de moda y accesorios. Comprometidos con la transformación digital, impulsamos el desarrollo de soluciones de software propias destinadas a fusionar la experiencia física de compra en tiendas con plataformas web y móviles interactivas de fidelización.
+### 💻 Stack Tecnológico
+*Nuestras aplicaciones, servicios y sistemas se construyen utilizando herramientas modernas y robustas:*
 
-Este espacio alberga los repositorios de código y las integraciones del ecosistema **Club KDOSH**, la plataforma oficial de lealtad de la marca.
+<br />
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+</div>
 
-### 🛠️ Tecnologías y Herramientas del Ecosistema
-
-Aquí se muestran las principales tecnologías utilizadas en la arquitectura de nuestros sistemas:
-
-| Backend & API | Frontend & Mobile | Integración ERP | Base de Datos |
-| :--- | :--- | :--- | :--- |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| ![PHP 8.4](https://img.shields.io/badge/PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![JSON--RPC](https://img.shields.io/badge/JSON--RPC-blue?style=flat-square) | |
-| | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) | | |
-
----
-
-### 📱 Proyectos Principales
-
-#### 🥇 [Club Kdosh App & Web](https://github.com/KdoshStoreSAC/kdosh_club)
-Plataforma centralizada de fidelización que permite a los clientes interactuar con la marca en tiempo real.
-* **Fidelización Dinámica**: Niveles de membresía segmentados (*Silver*, *Gold*, *Platinum*, *Elite*) y acumulación automática de puntos.
-* **Gamificación Integrada**: Sistema de misiones en redes sociales, registro dinámico de referidos, cupones inteligentes y pronósticos deportivos integrados.
-* **Canje QR de Alta Seguridad**: Generación de tokens QR dinámicos de corta duración para verificación y aplicación de descuentos seguros directamente en el POS de las tiendas.
-
-#### 🔄 Puente de Integración Odoo ERP
-Módulo API que sincroniza datos de clientes, saldos de puntos de lealtad y validación de cupones digitales entre Club KDOSH y el sistema **Odoo Enterprise v17**.
-
----
-
-### 📊 Impacto y Resultados de la Implementación (Periodo de Lanzamiento)
-*Comparativa cuantitativa de métricas clave recopiladas entre el Periodo de Pre-lanzamiento (26 días) y el Periodo de Post-lanzamiento (26 días):*
-
-| Indicador clave | Antes del Lanzamiento | Después del Lanzamiento | Incremento / Estado |
-| :--- | :---: | :---: | :---: |
-| 👥 **Usuarios Registrados** | 1,166 | 5,221 | **+347.77 %** |
-| ⚡ **Usuarios Activos** | 1,163 | 6,232 | **+435.86 %** |
-| 🎁 **Tasa de Uso de Puntos** | S/ 2,211.92 | S/ 20,199.61 | **+813.22 %** |
-| 🏷️ **Cupones Canjeados** | 0 | 2,741 | **Nuevo (Tasa de redención 37.16%)** |
-| 🔍 **Transacciones POS Sincronizadas** | 0 | 1,381 | **Nuevo (Trazabilidad 100%)** |
-| 📱 **Canjes en Caja mediante QR** | 39 | 357 | **+815.38 %** |
+<br />
 
 ---
 
-### 📬 Contacto y Soporte
-Para consultas corporativas o técnicas:
-* **Sitio Web de la Tienda**: [kdoshstore.com](https://kdoshstore.com/)
-* **Plataforma del Club**: [club.kdoshstore.com](https://club.kdoshstore.com/)
+### 🛡️ Áreas de Desarrollo Tecnológico
+
+* 🔄 **Integración Omnicanal ERP**: Sincronización e intercambio de datos en tiempo real entre nuestras plataformas digitales y el sistema central **Odoo Enterprise v17**.
+* 📱 **Fidelización y Gamificación**: Creación de aplicaciones móviles destinadas a potenciar la retención de clientes mediante misiones, sorteos y canjes interactivos.
+* 🛍️ **E-commerce & Canales Digitales**: Desarrollo de portales web interactivos y pasarelas de pago optimizadas para la venta minorista de moda.
+
+---
+
+### 📬 Contacto Corporativo
+* **Sitio Web Principal**: [kdoshstore.com](https://kdoshstore.com/)
 * **Email de Soporte**: soporte@kdoshstore.com
+* **Ubicación Principal**: Huánuco, Perú 🇵🇪
