@@ -1,9 +1,5 @@
 # 🏛️ Kdosh Store S.A.C.
 
-<p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KdoshStoreSAC&theme=github_dark" />
-</p>
-
 ### 🌟 Sobre Nosotros
 **Kdosh Store S.A.C.** es una empresa peruana líder en el sector retail de moda y accesorios. Creemos firmemente que la tecnología es el motor principal para conectar con nuestros clientes, por lo que diseñamos y construimos nuestro propio ecosistema digital omnicanal (E-commerce, Apps Móviles, Sistemas de Fidelización y Automatizaciones ERP) con el objetivo de redefinir la experiencia de compra física y digital en el Perú.
 
